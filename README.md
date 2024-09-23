@@ -1,6 +1,6 @@
 # Employee Management System
 
-![Employee Management System](https://github.com/nawaf-alageel/Employee-Management-System/blob/main/assets/banner.png)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 Welcome to the **Employee Management System**, a comprehensive web application designed to streamline and enhance the management of employee data and tasks within an organization. This system provides administrators with the tools to add, edit, and manage employee information and their respective tasks efficiently.
 
